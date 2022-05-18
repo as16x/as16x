@@ -9,7 +9,7 @@ Front-end Web Developer
 *   🧠  I'm learning Javascript soon will be learning React
 *   🌱  I’m currently learning **DevOps**.
 *   🤝  I'm open to collaborating on Front-end Projects
-*   ⚡  I am also interested in Web Design and Linux OS
+*   ⚡  I am also interested in Web Design
 
 ### Skills
 <p align="left">
