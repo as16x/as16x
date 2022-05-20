@@ -6,8 +6,8 @@ Front-end Web Developer
 
 *   🌍  I'm based in Germany
 *   ✉️  You can contact me at [thecodemedic@gmail.com](mailto:thecodemedic@gmail.com)
-*   🧠  I'm learning Javascript soon will be learning React
-*   🌱  I’m currently learning **DevOps**.
+*   🧠  I’m currently learning ... Javascript, Solidty, Next.js and React to build THE FUTURE OF THE WEB!!!
+*   👀  I’m interested in ... WEB 3.0
 *   🤝  I'm open to collaborating on Front-end Projects
 *   ⚡  I am also interested in Web Design
 
